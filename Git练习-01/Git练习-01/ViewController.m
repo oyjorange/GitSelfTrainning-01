@@ -25,6 +25,9 @@
 - (void)loadData {
 
     NSLog(@"开始加载数据");
+    
+- (void)test1 {
+    NSLog(@"完成了功能1");
 }
 
 @end
