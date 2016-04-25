@@ -22,4 +22,8 @@
     NSLog(@"开始项目，搭建UI");
 }
 
+- (void)test1 {
+    NSLog(@"完成了功能1");
+}
+
 @end
