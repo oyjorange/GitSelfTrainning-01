@@ -22,4 +22,9 @@
     NSLog(@"开始项目，搭建UI");
 }
 
+- (void)loadData {
+
+    NSLog(@"开始加载数据");
+}
+
 @end
